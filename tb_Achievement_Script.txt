@@ -13,31 +13,31 @@ Used 200 consumables.
 I can't be stopped!
 Used 400 consumables.
 
-I can't be stopped! It doesn't stop here!
+I can't be stopped! I will not stop!
 Used 800 consumables.
 
 When it isn't in my hand, I feel anxious.
 Used 1600 consumables.
 
-Please maintain the usage amount and use it.
+Please maintain the usage amount during use.
 Used 3200 consumables.
 
-Oh? During when?
+Oh? Since when?
 Used 6400 consumables.
 
-It's necessary to adventure!
+Necessities of Adventure!
 Used 12800 consumables.
 
 Just because it's nearby.
 Purchase 5 items at a store.
 
-Oh, oh, isn't it a good store?
+Isn't it a good store though?
 Purchase 30 items at a store.
 
-Didn't you put in a new design just now?
+Could you put in a new design now?
 Purchase 100 items at a store.
 
-Isn't a point saved?
+Aren't there any discount points?
 Purchase 300 items at a store.
 
 What will you take today?
@@ -58,7 +58,7 @@ Purchase 8000 items at a store.
 Should I open a store too?
 Purchase 10000 items at a store.
 
-Something deforms it sometimes.
+All things deform in time.
 30,000 Zenny spent on repairs.
 
 Isn't it too easy to break?
@@ -70,7 +70,7 @@ Isn't there a stronger one?
 I want a disposable one...
 90,000 Zenny spent on repairs.
 
-Repairing repairing...?
+Repair and repair...
 110,000 Zenny spent on repairs.
 
 It requires good caretaking for things to last a long time.
@@ -91,13 +91,13 @@ It isn't broken, but I'd like to repair it!
 Face death up to three times
 Incapacitated 3 times.
 
-Don't mind don't mind
+Don't mind, don't mind!
 Incapacitated 10 times.
 
 No, no ... Why?
 Incapacitated 50 times.
 
-Oh no... to this guy!
+No... to lose to a guy like this!
 Incapacitated 100 times.
 
 Where does it start next?
@@ -133,7 +133,7 @@ Defeat 5000 enemies.
 It's your funeral!
 Defeat 10000 enemies.
 
-I am only passing by
+I am only passing by.
 Defeat 20000 enemies.
 
 My body is moving by itself...
@@ -154,7 +154,7 @@ Defeat 130 weak monsters.
 Good fit for the first level.
 Defeat 1100 weak monsters.
 
-何か…いたから…つい… 
+Something there...So I just...Teehee? 
 Defeat 3000 weak monsters.
 
 You can't hold your ground!
@@ -181,7 +181,7 @@ Defeat 41000 weak monsters.
 ふっつぅ～～
 Defeat 80 normal monsters.
 
-I alone am enough
+Me alone is sufficient.
 Defeat 700 normal monsters.
 
 Don't leave me hanging
@@ -190,19 +190,19 @@ Defeat 1800 normal monsters.
 Persistent
 Defeat 3500 normal monsters.
 
-I'm not afraid even if I'm threatened
+I'm not afraid even if it's big
 Defeat 5700 normal monsters.
 
-The weak shouldn't bark at all
+The weak bark the loudest
 Defeat 8300 normal monsters.
 
 Know your place!
 Defeat 11600 normal monsters.
 
-Is it the quantity more than the quality?
+Are you more of a quantity over quality person?
 Defeat 15400 normal monsters.
 
-Isn't it the gate where they should gather?
+Just because you come in hordes, doesn't mean you win
 Defeat 20000 normal monsters.
 
 Common Buster
@@ -226,22 +226,22 @@ Defeat 2200 elite monsters.
 Were there so much of you here?
 Defeat 3000 elite monsters.
 
-It seemed strong in the past.
+Looking so strong is a thing of the past.
 Defeat 5000 elite monsters.
 
 It looks pitiful now.
 Defeat 6100 elite monsters.
 
-It's vexing! it's hit 8 // eight probably referring to 8000
+I am annoyed! I'll take it out on you!
 Defeat 8000 elite monsters.
 
-I seem to be strong.
+I seem to be stronger.
 Defeat 10200 elite monsters.
 
 Oh? Aren't you the boss?
 Defeat 17 mini-bosses.
 
-It's the boss from where?
+Where's this boss from?
 Defeat 140 mini-bosses.
 
 Oh, I can't be careless.
@@ -271,10 +271,10 @@ Defeat 5100 mini-bosses.
 What is it!
 Defeat 10 bosses.
 
-You're the boss indeed, right?
+Indeed, a boss
 Defeat 80 bosses.
 
-Am I used to the boss, too?
+I am used to bosses now
 Defeat 200 bosses.
 
 I can predict your next move.
@@ -283,7 +283,7 @@ Defeat 400 bosses.
 A veteran isn't showy
 Defeat 600 bosses.
 
-Gift of a daily effort
+Gift of daily effort
 Defeat 1000 bosses.
 
 Will you be my opponent anytime?
